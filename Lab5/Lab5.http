@@ -1,6 +1,6 @@
 @Lab5_HostAddress = http://localhost:5045
 
-GET {{Lab5_HostAddress}}/weatherforecast/
+GET {{Lab5_HostAddress}}/swagger/
 Accept: application/json
 
 ###
